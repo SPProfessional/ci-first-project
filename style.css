@@ -59,3 +59,18 @@ body {
   color: blue;
 }
 
+.search {
+  display: flex;
+  align-items: center;
+}
+
+.srch {
+  width: 180px;
+  height: 35px;
+  background: transparent;
+  border: 1px solid #fff;
+  color: white;
+  padding-left: 10px;
+  border-radius: 5px 0 0 5px;
+}
+
