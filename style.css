@@ -84,3 +84,31 @@ body {
   cursor: pointer;
 }
 
+.content {
+  text-align: left;
+  padding: 100px 5%;
+}
+
+.content h1 {
+  font-size: 50px;
+}
+
+.content .par {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+.cn {
+  display: inline-block;
+  padding: 12px 30px;
+  background: blue;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.cn:hover {
+  background: #0044ff;
+}
+
