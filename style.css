@@ -112,3 +112,30 @@ body {
   background: #0044ff;
 }
 
+.form {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 25px;
+  border-radius: 10px;
+  width: 280px;
+  margin-top: 40px;
+}
+
+.form h2 {
+  text-align: center;
+  background: white;
+  color: blue;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.form input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid blue;
+  color: white;
+  margin-top: 20px;
+  font-size: 15px;
+  padding: 8px 0;
+}
+
