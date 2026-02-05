@@ -22,6 +22,45 @@ Four function pages;
 
 Live Website: https://spprofessional.github.io/ci-first-project/
 
+! Project Screenshots
+
+The following screenshots demonstrate the completed website and show how the final implementation aligns with the defined user stories and acceptance criteria.
+
+ ! Home Page 
+
+  User Story: View Homepage
+
+Users can access the homepage to view an overview of the business and navigate to other sections of the site.
+
+![Home Page – Desktop View](assets/screenshots/home-desktop.png)
+![Home Page – Mobile View](assets/screenshots/home-mobile.png)
+
+ ! Mission Page 
+
+  User Story: View Company Mission
+
+Users can view the company mission statement to understand the purpose and values of the organisation.
+
+![Mission Page Screenshot](assets/screenshots/mission.png)
+
+ ! Services Page 
+
+  User Story: View Available Services
+
+Users can browse the services offered and understand what solutions are available.
+
+![Services Page Screenshot](assets/screenshots/services.png)
+
+! Contact Page 
+ 
+ User Story: Contact the Business
+
+Users can access contact information and submit enquiries using the contact page.
+
+![Contact Page Screenshot](assets/screenshots/contact.png)
+
+--
+
 ! Project Structure
 
 payment-processing-project/
