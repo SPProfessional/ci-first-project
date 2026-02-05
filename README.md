@@ -32,8 +32,7 @@ The following screenshots demonstrate the completed website and show how the fin
 
 Users can access the homepage to view an overview of the business and navigate to other sections of the site.
 
-![Home Page – Desktop View](assets/screenshots/home-desktop.png)
-![Home Page – Mobile View](assets/screenshots/home-mobile.png)
+![Home Page Desktop View](assets/screenshots/Home_Page_Index.png)
 
  ! Mission Page 
 
@@ -41,7 +40,7 @@ Users can access the homepage to view an overview of the business and navigate t
 
 Users can view the company mission statement to understand the purpose and values of the organisation.
 
-![Mission Page Screenshot](assets/screenshots/mission.png)
+![Mission Page View](assets/screenshots/Mission_Page.png)
 
  ! Services Page 
 
@@ -49,7 +48,7 @@ Users can view the company mission statement to understand the purpose and value
 
 Users can browse the services offered and understand what solutions are available.
 
-![Services Page Screenshot](assets/screenshots/services.png)
+![Services Page View](assets/screenshots/Services_Page.png)
 
 ! Contact Page 
  
@@ -57,7 +56,7 @@ Users can browse the services offered and understand what solutions are availabl
 
 Users can access contact information and submit enquiries using the contact page.
 
-![Contact Page Screenshot](assets/screenshots/contact.png)
+![Contact Page View](assets/screenshots/Contact_Page.png)
 
 --
 
