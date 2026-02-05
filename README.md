@@ -1,10 +1,10 @@
-! NexusPay – Static Website
+# NexusPay – Static Website
 
 NexusPay is a static website designed to showcase a fintech payment solution. The project demonstrates front-end development fundamentals using HTML5 and CSS3, with a simple design that is legible.
 
 This project was created as part of an online diploma course.
 
-! Features
+# Features
 
 Four function pages;
  Home
@@ -18,11 +18,11 @@ Four function pages;
   Reusable stylesheet for consistent visuals
   Deployed with GitHub Pages
 
-! Live Demo
+# Live Demo
 
 Live Website: https://spprofessional.github.io/ci-first-project/
 
-! Project Screenshots
+# Project Screenshots
 
 The following screenshots demonstrate the completed website and show how the final implementation aligns with the defined user stories and acceptance criteria.
 
@@ -60,7 +60,26 @@ Users can access contact information and submit enquiries using the contact page
 
 --
 
-! Project Structure
+# Manual Testing
+
+Manual testing was conducted to assess the functionality, usability, responsiveness, and cross-browser compatibility of the website. The tests were performed on the deployed GitHub Pages version to ensure the live site matches the development version.
+
+| Test ID | Feature Tested | Test Steps | Expected Result | Actual Result | Pass/Fail |
+|---------|----------------|------------|-----------------|---------------|-----------|
+| T1 | Navigation Links | Click each link in the navbar | Each page loads correctly | All links navigated to correct pages | Pass |
+| T2 | Homepage Layout | Open homepage on desktop | Page content is visible, properly aligned, and styled | Layout displayed correctly | Pass |
+| T3 | Responsive Design | Resize browser to mobile (375px) | Layout adapts and remains readable | Layout adapts properly | Pass |
+| T4 | Services Page Content | Scroll through Services page | All sections display correctly and consistently | Content displayed correctly | Pass |
+| T5 | Contact Page Form | Open contact page and check form | Form fields visible and aligned | Form displayed correctly | Pass |
+| T6 | Cross-Browser Check | Open site in Chrome and Firefox | Website appears consistent in both browsers | No differences observed | Pass |
+| T7 | Image Loading | Open pages with images | All images load without distortion or delay | Images loaded correctly | Pass |
+
+# Testing Summary
+All manual tests passed successfully. No critical issues were detected. The live GitHub Pages deployment was also tested and confirmed to match the development version.
+
+ --
+
+# Project Structure
 
 payment-processing-project/
   assets/css/style.css
@@ -72,7 +91,7 @@ payment-processing-project/
   contact.html
   README.md
 
-! Design Overview
+# Design Overview
 
 The design focuses on;
 
@@ -82,7 +101,7 @@ The design focuses on;
  Consistency with spacing and styling
  Simple and legible typography
 
-! Wireframes
+# Wireframes
 
 The following wireframes outline the project structure for each page.
 
@@ -163,7 +182,7 @@ This project uses:
 All other HTML and CSS were created independantly.
 
 
-! Version Control
+# Version Control
 
 This project uses;
 
@@ -172,7 +191,7 @@ This project uses;
  GitHub Pages for deployment
 
 
-! Deployment
+# Deployment
 
 Deployment is handled via GitHub Pages.
 
@@ -181,11 +200,11 @@ To redeploy:
 2. GitHub Pages rebuilds automatically
 3. View at: https://spprofessional.github.io/payment-processing-project/
 
-! License
+# License
 
 This project is for educational and portfolio use.
 
-! Further Enhancements
+# Further Enhancements
 
 This project has potential to be built upon, adding additional features such as; 
 
