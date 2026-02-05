@@ -63,11 +63,13 @@ Users can access contact information and submit enquiries using the contact page
 ! Project Structure
 
 payment-processing-project/
+  assets/css/style.css
+  assets/images
+  assets/screenshots
   index.html
   mission.html
   services.html
   contact.html
-  style.css
   README.md
 
 ! Design Overview
