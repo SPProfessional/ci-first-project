@@ -20,7 +20,7 @@ Four function pages;
 
 ! Live Demo
 
-Live Website: https://spprofessional.github.io/payment-processing-project/
+Live Website: https://spprofessional.github.io/ci-first-project/
 
 ! Project Structure
 
