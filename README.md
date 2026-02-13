@@ -48,7 +48,7 @@ Users can view the company mission statement to understand the purpose and value
 
 Users can browse the services offered and understand what solutions are available.
 
-![Services Page View](assets/screenshots/Services_Page.png)
+![Services Page View](assets/screenshots/Service_Page.png)
 
 ! Contact Page 
  
