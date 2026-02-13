@@ -1,3 +1,5 @@
+/* Base Styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -10,6 +12,8 @@ body {
   background-color: #000;
 }
 
+/* Main Layout & Background */
+
 .main {
   width: 100%;
   min-height: 100vh;
@@ -21,6 +25,8 @@ body {
   background-repeat: no-repeat;
   color: white;
 }
+
+/* Navigation Bar Styles */
 
 .navbar {
   width: 90%;
@@ -59,6 +65,8 @@ body {
   color: blue;
 }
 
+/* Search Bar Styles */
+
 .search {
   display: flex;
   align-items: center;
@@ -83,6 +91,8 @@ body {
   border-radius: 0 5px 5px 0;
   cursor: pointer;
 }
+
+/* Homepage content section */
 
 .content {
   text-align: left;
@@ -111,6 +121,8 @@ body {
 .cn:hover {
   background: #0044ff;
 }
+
+/* Login & Contact Form Styles */
 
 .form {
   background: rgba(0, 0, 0, 0.7);
@@ -150,6 +162,8 @@ body {
   cursor: pointer;
 }
 
+/* Shared Page Styles */
+
 .page-content {
   text-align: center;
   padding: 100px 5%;
@@ -175,6 +189,8 @@ body {
   background: rgba(255, 255, 255, 0.2);
 }
 
+/* Contact Form Styles */
+
 .contact-form {
   display: flex;
   flex-direction: column;
@@ -197,6 +213,8 @@ body {
   resize: none;
 }
 
+/* Footer Styles */
+
 footer {
   text-align: center;
   padding: 20px;
@@ -204,6 +222,8 @@ footer {
   color: white;
   font-size: 14px;
 }
+
+/* Responsive Design / Media Queries */
 
 @media (max-width: 768px) {
   .navbar {
